@@ -1,5 +1,7 @@
 # Praticas-serviço
 
+Link para o projeto:  https://wokwi.com/projects/464381968340727809
+
 📋 Descrição
 O ESP32 Explorer Robot é um sistema de monitoramento ambiental que coleta dados de múltiplos sensores, calcula a probabilidade de presença de vida no ambiente e envia alertas automáticos via WhatsApp quando o índice ultrapassa um limiar crítico.
 
